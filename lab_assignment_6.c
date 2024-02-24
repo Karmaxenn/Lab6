@@ -1,4 +1,6 @@
 //Jarez Chritsian
+//COP3502
+//Febuary 23, 2024
 
 #include <stdio.h>
 
